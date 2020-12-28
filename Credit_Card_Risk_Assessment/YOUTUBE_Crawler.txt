@@ -1,0 +1,14 @@
+https://www.learnbay.co/data-science-course/blog-post/top-50-interview-question-on-statistics/
+
+https://www.learnbay.co/data-science-course/blog-post/top-50-interview-question-on-statistics/
+
+
+https://realpython.com/mobile-app-kivy-python/
+
+https://pythonprogramming.net/kivy-application-development-tutorial/
+
+
+ YOUTUBE Crawler
+https://www.channelcrawler.com/eng
+https://github.com/f9n/youtube-playlist-scraper/blob/master/main.py
+https://www.youtube.com/watch?v=HOfTrhmIXIM
